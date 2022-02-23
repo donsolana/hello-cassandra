@@ -23,4 +23,4 @@ Project is a jupiter notebook. That follows these steps:
 
 ## To-do:
 1. Modularize code
-2. Make Tables more robust by including more columns
+
