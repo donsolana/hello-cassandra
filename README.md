@@ -20,3 +20,6 @@ Project is a jupiter notebook. That follows these steps:
 1. Python Cassandra driver aptly named "cassandra"
 2. Pandas for data manipulation
 3. OS and glob for crawling through file repository
+
+## To-do:
+1. Modularize code
