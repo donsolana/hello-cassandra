@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project demonstrates the data modelling process for Apache Cassandra, a noSQL database. The database is here is for a music streaming website. Nosql databases are optimized for fast writes. To design for faster reads tables have to be entirely denormalized with queries in mind. In other words, each table in rhe Cassandra data base is modelling based on it's unique query outcome, with data redundancy(overlaps between tables) permitted. in some sense this is an easier process that with relational databases. The trick however lies majorly in how data is partioned and sorted across nodes.
+This project demonstrates the data modelling process for Apache Cassandra, a noSQL database. The database is here is for a music streaming website. Nosql databases are optimized for fast writes. To design for faster reads tables have to be entirely denormalized with queries in mind. In other words, each table in the Cassandra data base is modelling based on it's unique query outcome, with data redundancy(overlaps between tables) permitted. in some sense this is an easier process that with relational databases. The trick however lies majorly in how data is partioned and sorted across nodes.
 
 ## How to run project:
 
